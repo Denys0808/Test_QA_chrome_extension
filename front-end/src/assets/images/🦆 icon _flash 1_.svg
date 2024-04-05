@@ -1,0 +1,32 @@
+<svg width="7" height="9" viewBox="0 0 7 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="7" height="9" fill="#1E1E1E"/>
+<g id="Login - Desktop">
+<rect width="1440" height="1024" transform="translate(-864 -345)" fill="url(#paint0_linear_0_1)"/>
+<g id="Edit account popup - Desktop">
+<rect x="-379.5" y="-176.5" width="471" height="686" rx="14.5" fill="url(#paint1_linear_0_1)"/>
+<g id="chrome button">
+<g id="fast button">
+<path id="Rectangle 15" d="M-21 -14H54V5C54 10.5228 49.5229 15 44 15H-11C-16.5228 15 -21 10.5228 -21 5V-14Z" fill="#6549C0"/>
+<g id="&#240;&#159;&#166;&#134; icon &#34;flash 1&#34;">
+<path id="Vector" d="M5.93312 3.92406H4.54275V0.684332C4.54275 -0.0716003 4.13328 -0.224587 3.63383 0.342363L3.27386 0.751827L0.22763 4.21653C-0.190832 4.68899 -0.0153481 5.07596 0.614596 5.07596H2.00497V8.31567C2.00497 9.0716 2.41444 9.22459 2.91389 8.65764L3.27386 8.24817L6.32009 4.78348C6.73855 4.31102 6.56307 3.92406 5.93312 3.92406Z" fill="white"/>
+</g>
+</g>
+</g>
+<rect x="-379.5" y="-176.5" width="471" height="686" rx="14.5" stroke="url(#paint2_linear_0_1)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="0" y1="512" x2="1440" y2="512" gradientUnits="userSpaceOnUse">
+<stop stop-color="#08010F"/>
+<stop offset="1" stop-color="#05050A"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_1" x1="-380" y1="510" x2="216.027" y2="376.426" gradientUnits="userSpaceOnUse">
+<stop stop-color="#150225"/>
+<stop offset="1" stop-color="#0A0A12"/>
+</linearGradient>
+<linearGradient id="paint2_linear_0_1" x1="-144" y1="-177" x2="-144" y2="510" gradientUnits="userSpaceOnUse">
+<stop stop-color="#673AB7"/>
+<stop offset="1" stop-color="#E91E63"/>
+</linearGradient>
+</defs>
+</svg>

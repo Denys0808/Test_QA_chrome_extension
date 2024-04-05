@@ -1,0 +1,23 @@
+<svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="14" height="13" fill="#1E1E1E"/>
+<g id="Complete profile popup - Desktop">
+<rect x="-431" y="-27" width="472" height="492" rx="20" fill="url(#paint0_linear_0_1)"/>
+<g id="&#240;&#159;&#166;&#134; icon &#34;close circle&#34;">
+<g id="Group">
+<path id="Vector" d="M1.5 12L12.5001 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M12.5001 12L1.5 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<rect x="-430.5" y="-26.5" width="471" height="491" rx="19.5" stroke="url(#paint1_linear_0_1)" stroke-opacity="0.25"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="-431" y1="465" x2="139.131" y2="286.589" gradientUnits="userSpaceOnUse">
+<stop stop-color="#150225"/>
+<stop offset="1" stop-color="#0A0A12"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_1" x1="-195" y1="-27" x2="-195" y2="465" gradientUnits="userSpaceOnUse">
+<stop stop-color="#673AB7"/>
+<stop offset="1" stop-color="#E91E63"/>
+</linearGradient>
+</defs>
+</svg>
